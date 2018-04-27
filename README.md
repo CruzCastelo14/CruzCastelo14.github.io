@@ -1,6 +1,6 @@
 # Practicas de bootstrap
 <p>
-<a href="https://cruzcastelo14.github.io">Practica1.html</a>
+<a href="https://cruzcastelo14.github.io/Practica1.htm">Practica1.html</a>
   </p>
   <p>
 <a href="https://cruzcastelo14.github.io">Practica2.html"</a>
